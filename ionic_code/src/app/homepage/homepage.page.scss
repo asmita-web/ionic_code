@@ -1,0 +1,66 @@
+input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    color: black;
+    font-size: 15px;
+}
+
+// .w3-bar-item{
+//     text-align: center;
+// }
+.w3-sidebar{
+    background: #758d72;
+    color: white;
+}
+.textstyle{
+    padding: 22px 54px;
+    background: #758d72;
+    color: white;
+}
+.w3-bar-item:hover{
+    list-style: none;
+    text-decoration: none;
+}
+.w3-bar-item{
+    padding: 16px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.w3-container{
+    background: #758d72;
+    border-radius: 7px;
+}
+
+th,td{
+    font-size: 16px;
+    color: white;
+}
+.pagedesign{
+    background: #758d72;
+    border-radius: 7px;
+}
+.innerdetail{
+    padding: 26px;
+}
+
+.column{
+    width: 25%;
+    float: right;
+}
+ label{
+     font-size: 14px;
+     color: white;
+ }
+ h3{
+    color: white;
+    font-size: 17px;
+    float: left;
+ }
+
+ span{
+    font-weight: 700;
+    font-size: 17px;
+    float: right;
+    color: white;
+ }
